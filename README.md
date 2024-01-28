@@ -14,13 +14,16 @@ Throughout the development process, I focused on creating clean and maintainable
 In summary, TriviaTrifle showcases my proficiency in front-end technologies, illustrating how I can use HTML, CSS, and JavaScript to build a small yet engaging web application.
 
 ## Optimizations
-    1. Animation Effects:
+1. Animation Effects:
+
 I can consider incorporating subtle animation effects, like fade-ins or transitions, to enhance visual appeal without compromising performance.
 
-    2. Dynamic Themes:
+2. Dynamic Themes:
+
 Implementing the ability for users to choose from different themes or color schemes will provide a personalized touch, potentially increasing user engagement and satisfaction.
 
-    3. CSS Preprocessing:
+3. CSS Preprocessing:
+
 If the project grows in complexity, transitioning to a CSS preprocessor like Sass or Less can offer advantages such as variables and mixins, leading to more maintainable and modular styling code.
 
 These optimizations aim to elevate both the aesthetics and efficiency of TriviaTrifle, ensuring a delightful user experience while paving the way for potential future enhancements.

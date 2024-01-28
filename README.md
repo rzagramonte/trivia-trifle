@@ -30,4 +30,4 @@ These optimizations aim to elevate both the aesthetics and efficiency of TriviaT
 
 ## Lessons Learned:
 
-In the process of developing TriviaTrifle, I've been reminded that the journey of an engineer is a perpetual learning experience. With each project, there are those thrilling moments of accomplishment—those "whoa, this is awesome" or "wow, I actually did it!" instances. These moments serve as a testament to the ongoing growth and passion that drives me as an engineer. Embracing the continuous learning mindset not only fuels personal development but also reflects a commitment to delivering innovative and impactful solutions.
+Through the development of TriviaTrifle, a key takeaway was mastering the integration of APIs into a project. This experience deepened my understanding of leveraging external data sources, enhancing the project's functionality, and broadening the scope of possibilities in future endeavors. The ability to seamlessly incorporate APIs adds a powerful tool to my skill set as a developer.

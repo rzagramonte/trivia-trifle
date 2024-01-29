@@ -1,4 +1,4 @@
-# Trivia Trifle
+# TriviaTrifle
 The TriviaTrifle project serves as a platform for users to discover random useless facts with just a click. By clicking the "Generate Fact" button, users trigger a fetch request to an API, and the received fact is dynamically displayed on the webpage. The project aims to entertain and inform users with intriguing and amusing pieces of information, adding an element of fun to their online experience.
 
 ## How It's Made:
